@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Bank account</title>
+</head>
+<body>
+    @foreach(var item in @ViewBag.user){
+    <h1>Welcome, @item.first_name @item.last_name</h1> 
+    }
+
+   <p>Current balance: @ViewBag.accounts</p>
+    <form action="/ProcessMoney" method="POST">
+    <label for="change">Deposit/Withdraw</label>
+    <input type="number" name="change">
+    <button type="submit">Submit</button>
+    </form>
+
+    <table>
+        <thead>
+            <th>Deposit/Withdraw</th>
+            <th>Date</th>
+        </thead>
+        <tbody>
+        @foreach(var item in @ViewBag.List){  
+            <tr>
+                <td>@item.change</td>
+                <td>@item.created_at.ToString("MMM dd yyyy")</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+    <a href="/logout">Logout</a>
+</body>
+</html>

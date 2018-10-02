@@ -1,0 +1,11 @@
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.deps.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.runtimeconfig.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.runtimeconfig.dev.json
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/bin/Debug/netcoreapp2.0/BankAccounts.pdb
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.csprojResolveAssemblyReference.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.csproj.CoreCompileInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.AssemblyInfoInputs.cache
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.AssemblyInfo.cs
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.dll
+/Users/Curry30/Desktop/coding_dojo/C#.Net/day11/BankAccounts/obj/Debug/netcoreapp2.0/BankAccounts.pdb
